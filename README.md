@@ -1,1 +1,2 @@
-this might cause a merge conflict
+hello this is my readme file
+Partner: Haley Drexel
